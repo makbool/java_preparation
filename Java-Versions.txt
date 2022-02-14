@@ -1,0 +1,19 @@
+Java 9 to 11
+
+Java 9 - Modules
+	Applets Removed
+Java 10
+	use of var
+	copyOf
+	toUnmodifiableList
+	Optional.orElseThrow()
+Java 11
+	java.net.http
+	run from source file
+	java Smample.java "Hello"
+	Shebang
+	String
+		isBlank()
+
+
+JEP - Java Enhancement Proposals
